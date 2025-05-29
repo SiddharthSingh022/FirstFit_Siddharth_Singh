@@ -1,4 +1,4 @@
-//10. Count Vowels and Consonants in a String
+//q-10. Count Vowels and Consonants in a String
 
 #include <iostream>
 #include<bits/stdc++.h>
