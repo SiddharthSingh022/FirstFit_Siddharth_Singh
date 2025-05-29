@@ -1,3 +1,5 @@
+//q1 in cpp using stl libraries for reversing the string
+
 #include<bits/stdc++.h>
 #include <iostream>
 #include <string>
